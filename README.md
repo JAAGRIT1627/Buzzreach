@@ -196,8 +196,8 @@ Before publishing as your own product, replace:
 
 ## 👤 Built By
 
-**✏️ [Your Name]** — ✏️ [Your Title / Role]  
-✏️ [LinkedIn URL] · ✏️ [Twitter URL] · ✏️ [Portfolio URL]
+**Jaagrit Sachdeva**  
+[LinkedIn →](https://www.linkedin.com/in/jaagritsachdeva16)
 
 ---
 
